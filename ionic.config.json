@@ -1,0 +1,8 @@
+{
+  "name": "Geofencer",
+  "app_id": "cbec053a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
